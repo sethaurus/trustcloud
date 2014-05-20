@@ -1,0 +1,2 @@
+#! /usr/bin/bash
+java -classpath ~/Documents/UWA/2014/CITS3002/project Server $@

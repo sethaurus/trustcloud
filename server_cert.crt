@@ -1,0 +1,89 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=AU, ST=Western Australia, L=Perth, O=TrustCloud Inc., CN=TrustCloud
+        Validity
+            Not Before: May 11 19:37:01 2014 GMT
+            Not After : May 11 19:37:01 2015 GMT
+        Subject: C=AU, ST=Western Australia, L=Perth, O=TrustCloud Inc., OU=Server, CN=TrustCloud Server
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b8:54:6e:cc:a7:36:0c:f4:84:8e:84:f6:c2:a8:
+                    a0:c3:9d:ac:2d:13:bd:27:91:63:7c:2f:25:94:a4:
+                    b8:d7:8b:e7:cf:56:03:d0:b0:81:6e:fe:fd:60:2c:
+                    9b:e1:f6:a3:ab:e7:57:8d:e4:be:c8:5d:40:54:dd:
+                    4e:b4:b9:30:30:1b:68:42:58:1f:a2:2e:50:02:a5:
+                    c4:d7:ec:fb:d6:e5:d2:94:0c:4d:95:80:61:a9:53:
+                    db:a2:55:39:cf:99:26:45:84:e2:a2:f4:73:98:ae:
+                    92:c4:1a:3e:e1:be:f8:91:a3:c7:76:1f:d6:74:89:
+                    4d:6b:62:23:73:9e:de:ad:e3:76:e1:6e:37:c0:73:
+                    f7:b1:04:8c:9a:ef:80:2d:bc:42:0d:17:22:e8:b6:
+                    b1:5d:14:7e:73:2a:d2:20:cb:c0:b1:27:39:11:1d:
+                    ea:59:e7:e5:85:8c:ea:a8:43:2d:57:55:79:7a:7e:
+                    df:a0:b0:c2:62:77:bd:cd:76:07:53:1e:9a:b6:06:
+                    48:2d:ff:1e:5a:79:cb:9c:76:57:23:b6:9a:e6:db:
+                    86:8b:41:5f:d5:d9:13:70:51:c6:32:b1:9f:45:55:
+                    bb:bb:14:e4:27:bc:84:59:96:9b:6b:af:46:d2:ed:
+                    f5:91:ad:81:2a:e8:12:d9:66:5c:ce:e0:53:e2:f3:
+                    13:db
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: md5WithRSAEncryption
+         56:38:73:83:46:ce:63:6e:a1:89:d7:09:e3:b5:6a:fa:4c:61:
+         3c:eb:da:58:b3:d2:7a:d4:04:62:da:2f:56:7c:4a:6f:2d:57:
+         22:18:d4:f0:ef:be:70:f1:29:bd:66:48:40:93:87:4d:5c:f3:
+         b4:b6:bf:55:e5:ae:39:d0:c8:15:72:92:9f:31:f4:a0:c7:f7:
+         54:ee:99:93:15:5a:fb:08:11:32:6a:41:c3:f3:c4:b3:53:d4:
+         70:df:5f:43:f1:54:72:cb:ee:4d:55:b0:9f:64:e5:c0:6c:fc:
+         b9:41:a5:e4:33:57:17:86:51:ae:78:77:c5:90:9a:c2:6a:17:
+         f6:e1:78:f9:60:81:a2:3d:59:0b:19:df:d2:95:b1:4b:39:37:
+         92:24:47:57:f7:23:ab:23:dc:34:d8:51:95:5a:3c:dc:54:0a:
+         48:5b:cf:a5:0c:64:44:25:af:38:9a:b8:e8:1d:42:f0:30:3e:
+         1b:7c:3f:3e:43:7b:b7:9f:1a:60:cc:17:bf:e1:d4:e6:3c:87:
+         7a:15:5c:b5:de:69:c5:93:12:a8:ed:44:35:a4:e3:40:eb:be:
+         d5:21:76:95:21:9f:b8:ff:e5:3a:bb:d4:aa:1b:2c:50:55:22:
+         90:ef:52:5a:58:33:04:9d:eb:32:8a:24:91:e1:cd:5e:16:32:
+         00:7c:89:11:55:a5:4d:3c:18:46:cc:bf:2f:c0:44:09:77:c5:
+         c2:4c:21:c6:19:e8:70:f6:06:2c:d3:8b:b6:35:82:a0:6c:13:
+         96:e4:3d:1a:3e:52:31:fe:47:f0:86:f3:6b:de:33:19:e9:a3:
+         43:2a:c8:43:ed:64:4f:51:9d:da:49:64:98:72:d7:1b:e9:ae:
+         07:aa:1d:f2:d9:ff:ad:e1:f0:f3:21:71:bf:94:7e:ac:3a:69:
+         1d:0a:da:a9:54:8b:01:4b:4e:cd:54:7c:b5:c8:99:ae:c6:e9:
+         19:78:7e:ed:53:89:d7:50:3d:e1:18:20:8a:10:23:44:70:3c:
+         4d:52:3e:ce:1c:78:72:ee:3e:83:54:8e:8f:a2:4c:ff:34:3e:
+         75:37:f2:be:1c:9d:e3:64:59:c6:77:1d:d1:8d:ff:5c:36:ab:
+         04:ee:00:7a:de:49:b2:4c:26:bf:73:f2:74:be:49:3e:fc:e1:
+         44:1e:dd:84:ef:cc:52:c7:2d:b5:41:15:f3:9e:d3:27:5a:85:
+         f7:24:7a:bb:de:88:fc:3f:f6:bb:71:29:3d:0a:de:7f:fd:6c:
+         8e:6a:23:fb:66:b1:a7:57:35:87:31:a9:5e:86:49:d1:c4:10:
+         5b:41:82:11:9f:93:6b:49:89:23:38:94:c6:c4:dd:a8:db:e5:
+         29:0f:75:ba:4a:08:2e:60
+-----BEGIN CERTIFICATE-----
+MIIEXTCCAkUCAQEwDQYJKoZIhvcNAQEEBQAwaDELMAkGA1UEBhMCQVUxGjAYBgNV
+BAgMEVdlc3Rlcm4gQXVzdHJhbGlhMQ4wDAYDVQQHDAVQZXJ0aDEYMBYGA1UECgwP
+VHJ1c3RDbG91ZCBJbmMuMRMwEQYDVQQDDApUcnVzdENsb3VkMB4XDTE0MDUxMTE5
+MzcwMVoXDTE1MDUxMTE5MzcwMVowgYAxCzAJBgNVBAYTAkFVMRowGAYDVQQIDBFX
+ZXN0ZXJuIEF1c3RyYWxpYTEOMAwGA1UEBwwFUGVydGgxGDAWBgNVBAoMD1RydXN0
+Q2xvdWQgSW5jLjEPMA0GA1UECwwGU2VydmVyMRowGAYDVQQDDBFUcnVzdENsb3Vk
+IFNlcnZlcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALhUbsynNgz0
+hI6E9sKooMOdrC0TvSeRY3wvJZSkuNeL589WA9CwgW7+/WAsm+H2o6vnV43kvshd
+QFTdTrS5MDAbaEJYH6IuUAKlxNfs+9bl0pQMTZWAYalT26JVOc+ZJkWE4qL0c5iu
+ksQaPuG++JGjx3Yf1nSJTWtiI3Oe3q3jduFuN8Bz97EEjJrvgC28Qg0XIui2sV0U
+fnMq0iDLwLEnOREd6lnn5YWM6qhDLVdVeXp+36CwwmJ3vc12B1MemrYGSC3/Hlp5
+y5x2VyO2mubbhotBX9XZE3BRxjKxn0VVu7sU5Ce8hFmWm2uvRtLt9ZGtgSroEtlm
+XM7gU+LzE9sCAwEAATANBgkqhkiG9w0BAQQFAAOCAgEAVjhzg0bOY26hidcJ47Vq
++kxhPOvaWLPSetQEYtovVnxKby1XIhjU8O++cPEpvWZIQJOHTVzztLa/VeWuOdDI
+FXKSnzH0oMf3VO6ZkxVa+wgRMmpBw/PEs1PUcN9fQ/FUcsvuTVWwn2TlwGz8uUGl
+5DNXF4ZRrnh3xZCawmoX9uF4+WCBoj1ZCxnf0pWxSzk3kiRHV/cjqyPcNNhRlVo8
+3FQKSFvPpQxkRCWvOJq46B1C8DA+G3w/PkN7t58aYMwXv+HU5jyHehVctd5pxZMS
+qO1ENaTjQOu+1SF2lSGfuP/lOrvUqhssUFUikO9SWlgzBJ3rMookkeHNXhYyAHyJ
+EVWlTTwYRsy/L8BECXfFwkwhxhnocPYGLNOLtjWCoGwTluQ9Gj5SMf5H8Ibza94z
+GemjQyrIQ+1kT1Gd2klkmHLXG+muB6od8tn/reHw8yFxv5R+rDppHQraqVSLAUtO
+zVR8tciZrsbpGXh+7VOJ11A94RggihAjRHA8TVI+zhx4cu4+g1SOj6JM/zQ+dTfy
+vhyd42RZxncd0Y3/XDarBO4Aet5Jskwmv3PydL5JPvzhRB7dhO/MUscttUEV857T
+J1qF9yR6u96I/D/2u3EpPQref/1sjmoj+2axp1c1hzGpXoZJ0cQQW0GCEZ+Ta0mJ
+IziUxsTdqNvlKQ91ukoILmA=
+-----END CERTIFICATE-----
